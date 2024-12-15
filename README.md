@@ -1,2 +1,2 @@
-# CAMs-application
-This project is intended for SC2002 group assignment at Nanyang Technological University
+# SC2002-Project
+Camp Application and Management System
